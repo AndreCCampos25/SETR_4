@@ -1,0 +1,16 @@
+/**
+
+@mainpage SETR 2021|2022
+
+@authors 
+	Denys Zadorozhnyy\n
+	Vítor Correia\n
+	André Campos
+	 
+	Este projeto consiste em implementar uma aplicação que coordena um conjunto de tarefas em\n 
+	tempo real, usando FIFO "Queues". A aplicação deverá receber valores\n
+	através da ADC, passá-los por um filtro digital (média) e, por fim, deverá fazer co-\n
+	-rresponder uma tensão final a um valor de duty-cycle do PWM, alterando o brilho dum\n
+	LED da placa. 
+
+*/
